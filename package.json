@@ -5,7 +5,8 @@
   "description": "a simple api test",
   "main": "index.js",
   "scripts": {
-    "test": "mocha"
+    "test": "mocha",
+    "start": "node index"
   },
   "author": "oyekunle-mark",
   "license": "ISC",
